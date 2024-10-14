@@ -11,7 +11,7 @@ import Normal from "./pages/Catagory/normal/normal";
 import Normal1 from "./pages/Catagory/normal/1";
 import Normal2 from "./pages/Catagory/normal/2";
 import Normal3 from "./pages/Catagory/normal/3";
-import NoPage from "./pages/nopage/NoPage";
+import NoPage from "./pages/nopage/Nopage";
 import BlogInfo from "./pages/blogInfo/BlogInfo";
 import AdminLogin from "./pages/admin/adminLogin/AdminLogin";
 import AdminRegister from "./pages/admin/adminRegister/AdminRegister"; // Import the register page
